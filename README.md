@@ -8,13 +8,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xin-li-sdu&layout=compact)](https://github.com/xin-li-sdu/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm xinli, SDU 本科在读</h1>
-<h3 align="center">A cryptography coder from china</h3>
+<h3 align="center">"A cryptography coder from china"</h3>
 
 <p align="left"> <a href="https://twitter.com/lxn21485974" target="blank"><img src="https://img.shields.io/twitter/follow/lxn21485974?logo=twitter&style=for-the-badge" alt="lxn21485974" /></a> </p>
 
 - 🔭 I’m currently working on [Email encryption system based on post quantum cryptography algorithm design](https://github.com/xin-li-sdu/QT-and-Dynamic-Link-Library)
 
-- 🌱 I’m currently learning **<Introduction to Cryptography>**
+- 🌱 I’m currently learning **《introduction to Cryptography》**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xin-li-sdu?tab=repositories](https://github.com/xin-li-sdu?tab=repositories)
 
