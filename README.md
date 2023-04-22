@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/lxn21485974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lxn21485974" height="30" width="40" /></a>
 <a href="https://instagram.com/lixin1258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lixin1258" height="30" width="40" /></a>
-<a href="tencent://message/?uin=2635410120&Site=&Menu=yes" target="blank"><img align="center" src="https://github.com/xin-li-sdu/CSAPP-MMountain/blob/main/R.jpg" alt="lixin1258" height="30" width="40" /></a>
+<a href="tencent://message/?uin=2635410120&Site=&Menu=yes" target="blank"><img align="center" src="https://github.com/xin-li-sdu/CSAPP-MMountain/blob/main/R.jpg" alt="2635410120" height="30" width="55" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
