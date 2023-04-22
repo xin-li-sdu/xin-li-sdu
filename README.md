@@ -4,12 +4,10 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=xin-li-sdu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-🎓 SDU 本科在读
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xin-li-sdu&layout=compact)](https://github.com/xin-li-sdu/github-readme-stats)
 
-<h1 align="center">Hi 👋, I'm xinli</h1>
+<h1 align="center">Hi 👋, I'm xinli  ,🎓 SDU 本科在读</h1>
 <h3 align="center">A cryptography coder from china</h3>
 
 - 🔭 I’m currently working on [Email encryption system based on post quantum cryptography algorithm design](https://github.com/xin-li-sdu/QT-and-Dynamic-Link-Library)
