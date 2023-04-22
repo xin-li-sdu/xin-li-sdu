@@ -16,13 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-'''
 <img src="https://github-readme-stats.vercel.app/api?username=xin-li-sdu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 - 🎓 SDU 本科在读
-- 
-- 🔭 Computer vision(目标检测-语义分割-分类)
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xin-li-sdu&layout=compact)](https://github.com/xin-li-sdu/github-readme-stats)
-'''
+
