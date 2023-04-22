@@ -30,7 +30,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xin-li-sdu&show_icons=true&locale=en&layout=compact" alt="xin-li-sdu" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=xin-li-sdu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xin-li-sdu&layout=compact)](https://github.com/xin-li-sdu/github-readme-stats)
 
