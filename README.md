@@ -18,13 +18,10 @@ Here are some ideas to get you started:
 
 '''
 <img src="https://github-readme-stats.vercel.app/api?username=xin-li-sdu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-- 🎓 CSU(master's degree)
-- 
-- 📖 [**leilei's blog**](https://blog.csdn.net/LEILEI18A)
+- 🎓 SDU 本科在读
 - 
 - 🔭 Computer vision(目标检测-语义分割-分类)
 
-<img src="https://github-profile-trophy.vercel.app/?username=xin-li-sdu&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xin-li-sdu&layout=compact)](https://github.com/xin-li-sdu/github-readme-stats)
