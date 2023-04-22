@@ -8,7 +8,7 @@
 <h3 align="center">"A cryptography coder from china"</h3>
 
 
-- 🔭 I’m currently working on [Email encryption system based on post quantum cryptography algorithm design](https://github.com/xin-li-sdu/QT-and-Dynamic-Link-Library)
+- 🔭 I’m currently working on [Email encryption system based on post quantum cryptography algorithm design]([https://github.com/xin-li-sdu/QT-and-Dynamic-Link-Library](https://github.com/xin-li-sdu/NEW-PGP/tree/main))
 
 - 🌱 I’m currently learning **《introduction to Cryptography》**
 
