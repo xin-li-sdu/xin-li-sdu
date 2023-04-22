@@ -7,7 +7,6 @@
 <h1 align="center">Hi 👋, I'm xinli, SDU 本科在读</h1>
 <h3 align="center">"A cryptography coder from china"</h3>
 
-<p align="left"> <a href="https://twitter.com/lxn21485974" target="blank"><img src="https://img.shields.io/twitter/follow/lxn21485974?logo=twitter&style=for-the-badge" alt="lxn21485974" /></a> </p>
 
 - 🔭 I’m currently working on [Email encryption system based on post quantum cryptography algorithm design](https://github.com/xin-li-sdu/QT-and-Dynamic-Link-Library)
 
@@ -23,6 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/lxn21485974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lxn21485974" height="30" width="40" /></a>
 <a href="https://instagram.com/lixin1258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lixin1258" height="30" width="40" /></a>
+<a href="tencent://message/?uin=2635410120&Site=&Menu=yes" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://www.bing.com/th?id=OIP.wmyVeef7ZWEnbErTSDQOjQHaHa&w=176&h=185&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2)" alt="2635410120" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
