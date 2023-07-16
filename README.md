@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on [Email encryption system based on post quantum cryptography algorithm design](https://github.com/xin-li-sdu/NEW-PGP/tree/main)
 
-- 🌱 I’m currently learning **《introduction to Cryptography》**
+- 🌱 I’m currently learning **Accelerated AES for Arm64 Linux Kernel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xin-li-sdu?tab=repositories](https://github.com/xin-li-sdu?tab=repositories)
 
 - 📫 How to reach me **2635410120@qq.com**
 
-- ⚡ Fun fact **"I think cryptography is really fun"**
+- ⚡ Fun fact **"I got 74 points in the final exam of the cryptography semester"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
