@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Email encryption system based on post quantum cryptography algorithm design](https://github.com/xin-li-sdu/NEW-PGP/tree/main)
 
-- 🌱 I’m currently learning **Accelerated AES for Arm64 Linux Kernel**
+- 🌱 I’m currently learning **Teacher Chen Yu's Algorithm Course Materials Sinicization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xin-li-sdu?tab=repositories](https://github.com/xin-li-sdu?tab=repositories)
 
