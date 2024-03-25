@@ -4,11 +4,11 @@
 
 
 
-<h1 align="center">Hi 👋, I'm xinli, SDU 本科在读</h1>
+<h1 align="center">Hi 👋, I'm xinli, SDU 在读</h1>
 <h3 align="center">"A cryptography coder from china"</h3>
 
 
-- 🔭 I’m currently working on [Email encryption system based on post quantum cryptography algorithm design](https://github.com/xin-li-sdu/NEW-PGP/tree/main)
+- 🔭 I’m currently working on [PQC-PGP](https://github.com/xin-li-sdu/PQ-PGP)
 
 - 🌱 I’m currently learning **Notes on Teacher Chen Yu's Algorithm Course PPT**
 
