@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [WhatCrypto](https://xin-li-sdu.github.io/whatcrypto/)
 
-- 🌱 I’m currently learning **Notes on Teacher Chen Yu's Algorithm Course PPT**
+- 🌱 I’m currently learning **Dynamic Searchable Symmetric Encryption，DSSE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xin-li-sdu?tab=repositories](https://github.com/xin-li-sdu?tab=repositories)
 
